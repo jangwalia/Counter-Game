@@ -1,0 +1,49 @@
+*{
+
+    margin:0;
+    padding:0;
+}
+body{
+    text-align: center;
+    background: rgb(126, 163, 231);
+}
+h1{
+    background: crimson;
+    font-weight: 100;
+}
+.container{
+    margin: 100px auto;
+    width: 500px;
+    height: 500px;
+    background: rgb(221, 114, 135);
+    padding:10px;
+}
+#number{
+    width:400px;
+    height:30px;
+    font-size:20px;
+    margin-top:80px;
+}
+.btn{
+    margin-top:100px;
+    width:200px;
+    height:50px;
+    color: wheat;
+    
+}
+.one{
+    background: darkgreen;
+}
+.two{
+    background: darkkhaki;
+}
+.reset{
+    background: violet;
+    color:black;
+}
+h2{
+    margin-top:20px;
+}
+.winner{
+    color:red;
+}
